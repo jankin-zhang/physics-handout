@@ -1,0 +1,50 @@
+\documentclass{book}
+\usepackage[utf8]{inputenc}
+\usepackage[UTF8]{ctex}
+\usepackage{geometry}
+\usepackage{graphics}
+\usepackage{float}
+\usepackage{adjustbox}
+\usepackage{fancyhdr}
+\usepackage{titletoc}
+\usepackage{amsmath}
+\usepackage[labelfont=bf]{caption}
+
+
+\title{\bfseries }  %题目
+\author{}  %作者
+\date{}  %日期
+\fancyhf{}  
+\fancyhead[C]{}  %页眉
+\fancyfoot[C]{\thepage}  %页脚（设定页码）
+\pagestyle{fancy}
+
+%设定目录格式
+\titlecontents{chapter}
+  [1em]
+  {\bfseries\huge}
+  {\contentslabel{1em}} 
+  {\hspace*{0em}}
+  {\titlerule*[0.9pc]{.}\contentspage}
+
+\titlecontents{section}
+  [2.5em] 
+  {\bfseries\large}
+  {\contentslabel{2.5em}} 
+  {\hspace*{0em}}
+  {\titlerule*[0.45pc]{.}\dotfill\contentspage}
+
+\titlecontents{subsection}
+  [4.1em] 
+  {}
+  {\contentslabel{3.5em}} 
+  {\hspace*{0em}}
+  {\titlerule*[0.44pc]{.}\dotfill\contentspage}
+
+\begin{document}
+  
+\maketitle
+\tableofcontents
+\newpage
+
+\end{document}
