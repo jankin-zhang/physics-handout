@@ -130,6 +130,10 @@ INPUT /usr/share/texmf/tex/latex/amsmath/amsbsy.sty
 INPUT /usr/share/texmf/tex/latex/amsmath/amsopn.sty
 INPUT /usr/share/texmf/tex/latex/enumitem/enumitem.sty
 INPUT /usr/share/texmf/tex/latex/enumitem/enumitem.sty
+INPUT /usr/share/texmf/tex/latex/multirow/multirow.sty
+INPUT /usr/share/texmf/tex/latex/multirow/multirow.sty
+INPUT /usr/share/texmf/tex/latex/wrapfig/wrapfig.sty
+INPUT /usr/share/texmf/tex/latex/wrapfig/wrapfig.sty
 INPUT /usr/share/texmf/tex/latex/hyperref/hyperref.sty
 INPUT /usr/share/texmf/tex/latex/kvsetkeys/kvsetkeys.sty
 INPUT /usr/share/texmf/tex/latex/kvsetkeys/kvsetkeys.sty

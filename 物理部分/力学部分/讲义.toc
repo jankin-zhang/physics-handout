@@ -6,7 +6,11 @@
 \contentsline {section}{\numberline {3}质点动力学}{4}{section.3}%
 \contentsline {subsection}{\numberline {3.1}牛顿运动定律}{4}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}惯性系与非惯性系}{5}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}简谐振动}{7}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}角动量与角动量守恒}{7}{subsection.3.4}%
-\contentsline {section}{\numberline {4}刚体与刚体动力学}{8}{section.4}%
+\contentsline {subsection}{\numberline {3.3}动量与动量守恒}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}简谐振动}{9}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}角动量与角动量守恒}{11}{subsection.3.5}%
+\contentsline {section}{\numberline {4}刚体与刚体动力学}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}刚体的转动惯量}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}质心和质心参考系}{14}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}物体的平衡}{16}{subsection.4.3}%
 \contentsfinish 
